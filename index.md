@@ -3,6 +3,8 @@ Hello World!
 _Hello World!_
 # Hello World!
 ## Hello World!
+[Link](https://ucsd.edu/)
+![Image](https://www.seekpng.com/png/full/65-655099_bulldog-png-transparent-images-english-bulldog-puppy-png.png)
 * Hello
 * World
 * Nice to meet you! (:
@@ -10,5 +12,3 @@ _Hello World!_
 2. World!
 3. Nice to meet you! (:
 > HelloWorld!
-[Link](https://ucsd.edu/)
-![Image](https://www.seekpng.com/png/full/65-655099_bulldog-png-transparent-images-english-bulldog-puppy-png.png)
