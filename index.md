@@ -18,8 +18,14 @@ _Hello World!_
 2. World!
 3. Nice to meet you! (:
 
-> HelloWorld!
+> Hello World!
 
 ---
 
-`HelloWorld!`
+`Hello World!`
+
+```
+# Hello World
+print `Hello World or` 
+print `Hello World!`
+```
