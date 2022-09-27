@@ -4,7 +4,7 @@ _Hello World!_
 # Hello World!
 ## Hello World!
 [Link](https://ucsd.edu/)
-![Image](http://clipart-library.com/new_gallery/37-373099_chick-yellow-yellowchick-tumblr-aesthetic-cute-kawaii-cute.png)
+![Image](https://images.rawpixel.com/image_png_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHUyMzMxNzg4LWltYWdlLXJtNTAzLTAxXzEtbDBqOXFyYzMucG5n.png)
 * Hello
 * World
 * Nice to meet you! (:
