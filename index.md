@@ -26,6 +26,6 @@ _Hello World!_
 
 ```
 # Hello World
-print `Hello World or` 
-print `Hello World!`
+print `Hello World! or ` 
+print `Hello World! (:`
 ```
