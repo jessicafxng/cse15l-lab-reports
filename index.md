@@ -1,5 +1,5 @@
 ## Jessica Fung's Lab Report 1
-[Lab Report 1 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-1-report.html)
+[Lab Report 1 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-1-report.md)
 
 ## This is me testing markdowns
 
