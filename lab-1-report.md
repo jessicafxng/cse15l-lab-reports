@@ -7,7 +7,7 @@
 * This is what the window looked like once the program is installed and opened: 
 
 ![Image](installing-VS-code.png)
-___
+***
 
 ## How to: Remotely Connect
 
@@ -18,7 +18,7 @@ ___
 * This is what the window looked like once I connected to the remote server:
 
 ![Image](remotely-connecting.png)
-___
+***
 
 ## How to: Run Some Commands
 
@@ -31,7 +31,7 @@ ___
 ![Image](ls-a-command.png)
 
 ![Image](cat-command.png)
-___
+***
 
 ## How to: Move Files Over SSH with scp
 
@@ -48,7 +48,7 @@ ___
 * I logged back into the remote server using the `SSH` command and used `ls`. Ecstatically, I saw the `WhereAmI.Java` file I made earlier in my computer in my directory. I compiled and ran the program using the same commands `javac` and `java`. This is what the window looked like once I completed these steps: 
 
 ![Image](SSH-scp-output.png)
-___
+***
 
 ## How to: Set up an SSH Key
 
@@ -63,7 +63,7 @@ ___
 ![Image](SSH-keys-nopassword.png)
 
 * I tested the program again. Yay! I no longer need to type in my password every time I log in to the remote server! (:
-___
+***
 
 ## How to: Make Remote Running Even More Pleasant
 
@@ -76,7 +76,7 @@ ___
 * I can save time by using a command in quotes at the end of a `SSH` command to directly run it on the remote server. This is what the window looked like once I ran such command: 
 
 ![Image](SSH-ls.png)
-___
+***
 
 # The End (Thank you for reading my Lab 1 Report!)
 
