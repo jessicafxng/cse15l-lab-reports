@@ -1,5 +1,5 @@
 ## Lab Report 1
-[Lab Report 1] (https://jessicafxng.github.io/cse15l-lab-reports/lab-1-report.md)
+[Lab Report 1](https://jessicafxng.github.io/cse15l-lab-reports/lab-1-report.md)
 
 ## This is me testing markdowns
 
