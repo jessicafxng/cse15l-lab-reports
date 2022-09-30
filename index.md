@@ -9,7 +9,7 @@ Hello World!
 # Hello World!
 ## Hello World!
 
-[Link](https://ucsd.edu/)
+[UCSD Website Link](https://ucsd.edu/)
 
 ![Image](https://soranews24.com/wp-content/uploads/sites/3/2021/09/Cute-Cat-Japan-coronavirus-vaccine-side-effect-pfizer-moderns-reaction-photo-top.jpg)
 
