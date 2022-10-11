@@ -12,7 +12,7 @@
 
 *What does remotely connecting do?* By remotely connecting, one can securely use VS Code to connect to a remote computer or virtual machine over the Internet and do work there.
 
-* I opened a terminal in VS Code and entered a command using `SSH` followed by my username.
+* I opened a terminal in VS Code and entered a command using `SSH` followed by my username `jefung@ieng6.ucsd.edu`. Together, the command is: `ssh jefung@ieng6.ucsd.edu`. This command allows me to connect to the remote server on my account.
 * Since it was my first time connecting to the server, I was prompted several pop-up messages. I said yes to all the messages and entered my password
 * This is what the window looked like once I connected to the remote server:
 
@@ -26,17 +26,25 @@
 
 ![Image](ls-lat-command.png)
 
+* The `ls -lat` command displays information about the files in the directory, the user, the user access, the server, and the date and time of the created files.
+
 ![Image](ls-a-command.png)
 
+* The `ls-a` command displays information about all the content, including the hidden files, in the current directory.
+
 ![Image](cat-command.png)
+
+* The `cat-command` prints out the contents in a file. In this case, we are printing out the text written in the file called hello.txt.
 
 ## How to: Move Files Over SSH with scp
 
 *Why is this necessary?* One important step in working remotely is the ability to copy files back and forth between computers.
 
-* I created a file on my own computer called `WhereAmI.java` and pasted some content into it. Then, I compiled and ran the program using the commands `javac` and `java`. This is what the window looked like once I completed these steps: 
+* I created a file on my own computer called `WhereAmI.java` and pasted some content into it. Then, I compiled and ran the program using the commands `javac` and `java`. This is what the window looked like once I completed these steps:
 
 ![Image](SSH-scp-initial-output.png)
+
+* The output displays information about the computer operating system, the user name on the computer, the user home on the computer, and the user directory on the computer. All the information regards the local machine.
 
 * In the same terminal, I ran a command using `scp` followed by the file `WhereAmI.java`, my username, and `:~/`. Then, I entered the password I used to log in with `SSH`. This is what the window looked like once I completed these steps:
 
@@ -45,6 +53,8 @@
 * I logged back into the remote server using the `SSH` command and used `ls`. Ecstatically, I saw the `WhereAmI.Java` file I made earlier in my computer in my directory. I compiled and ran the program using the same commands `javac` and `java`. This is what the window looked like once I completed these steps: 
 
 ![Image](SSH-scp-output.png)
+
+* The new output displays the same type of information as earlier but on the remote server, rather than on the computer. The output reveals the remote server, the user name on the remote server, the user home on the remote server, and the user directory on the remote server. All the information regards the remote server.
 
 ## How to: Set up an SSH Key
 
