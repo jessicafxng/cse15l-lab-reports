@@ -2,7 +2,7 @@
 
 ## How to: Create a Search Engine on a Remote Server
 
-* This is a code to create a Search Engine on a Remote Server.
+This is a code to create a Search Engine on a Remote Server.
 
 ![Image](search-engine.png)
 
@@ -26,7 +26,7 @@ To test the code implementation, you can try adding a string to the list. The `u
 
 ## How to: Find Bugs and Fix Them!
 
-* This is the `reverseInPlace` method in ArrayExamples.java:
+This is the `reverseInPlace` method in ArrayExamples.java:
 
 ![Image](reverseInPlace-BugCode.png)
 
@@ -44,7 +44,7 @@ To test the code implementation, you can try adding a string to the list. The `u
 
 ![Image](reverseInPlace-FixedCode.png)
 
-* This is the Filter method in ListExamples.java:
+This is the Filter method in ListExamples.java:
 
 ![Image](filterMethod-BugCode.png)
 
