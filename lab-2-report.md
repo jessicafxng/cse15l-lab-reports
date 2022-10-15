@@ -30,7 +30,7 @@ This is the `reverseInPlace` method in ArrayExamples.java:
 
 ![Image](reverseInPlace-BugCode.png)
 
-* I created a test to determine if a list is correctly reversed. 
+* I created a test to determine if a list is correctly reversed. I made an integer list with some values. Then, I used the `assertArrayEquals()` method to see if the expected reversed list has the same elements in order as the list altered from the method `reverseInPlace`.
 
 ![Image](testReverseInPlace.png)
 
@@ -48,7 +48,7 @@ This is the Filter method in ListExamples.java:
 
 ![Image](filterMethod-BugCode.png)
 
-* I created a test to determine if if a new list has all the elements in the input list and in the same order. The `verifyFilter` class first verifies if the input elements are actually strings. The initial code passes this test. The `testFilter` class determines if the two lists are equal (the input list and the new list created from the code).
+* I created a test to determine if if a new list has all the elements in the input list and in the same order. The `verifyFilter` class first verifies if the input elements are actually strings. The initial code passes this test. The `testFilter` class determines if the two lists are equal (the input list and the new list created from the code) using the `assertArrayEquals()` method.
 
 ![Image](testFilter.png)
 
