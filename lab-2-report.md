@@ -34,7 +34,7 @@ This is the `reverseInPlace` method in ArrayExamples.java:
 
 ![Image](testReverseInPlace.png)
 
-* The symptom is: Arrays differed at element[3]; expected <3> but was <4>. This is what the sympton looks like: 
+* The symptom is: Arrays differed at element[3]; expected <3> but was <4>. This is what the symptom looks like: 
 
 ![Image](testReverseInPlaceSymptom.png)
 
