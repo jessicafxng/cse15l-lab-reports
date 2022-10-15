@@ -1,5 +1,6 @@
 ## Jessica's Lab Report Links (:
 [Lab Report 1 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-1-report.html)
+
 [Lab Report 2 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-2-report.html)
 
 ## This is me testing markdowns
