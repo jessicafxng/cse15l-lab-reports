@@ -2,7 +2,7 @@
 
 ## How to: Create a Search Engine on a Remote Server
 
-* To create a Search Engine on a Remote Server, we start by implementing the code.
+* This is a code to create a Search Engine on a Remote Server.
 
 ![Image](search-engine.png)
 
@@ -48,4 +48,14 @@ To test the code implementation, you can try adding a string to the list. The `u
 
 ![Image](filterMethod-BugCode.png)
 
-# The End (Thank you for reading my Lab 1 Report!)
+* I created a test to determine if if a new list has all the elements in the input list and in the same order.
+
+* The symptom is: Arrays first differed at element[0]; expected:<[apple]> but was:<[banana]>. This is what the sympton looks like: 
+
+![Image](testFilterMethod-Symptom.png)
+
+* The bug is: The list is adding string elements to the front of the list rather than the back. While the code is correct in that strings are being added, it is not being added as intended. Elements in the new list should be in the same order as it was in the input list.
+
+* To fix the bug, you simply have to adjust the arguments in the method `result.add()`. Instead of it being `result.add(0, s)`, the code should be `result.add(s, 0)`. 
+
+# The End (Thank you for reading my Lab 2 Report!)
