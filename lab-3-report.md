@@ -108,7 +108,7 @@ The output consists of multiple lines in the 1471-2091-3-22 text file that menti
 
 ## How to: Check n lines before, after (or both) from a string in file
 The `A` letter followed by n number reveals a searched string and n lines after that result. You can write `A[number]` before the string you want to find with grep to find lines that match the given pattern and a certain number of liens after it. This command in the terminal looks like:
-`grep -A[numer] "string-you-are-searching-for" file-name`. You can use the same syntax but with the `B` letter to reveal the searched string and n lines before the result. You can use the `C` letter to reveal the searched string and n lines before AND after the result. I will only be going over the letter `A`.
+`grep -A[number] "string-you-are-searching-for" file-name`. You can use the same syntax but with the `B` letter to reveal the searched string and n lines before the result. You can use the `C` letter to reveal the searched string and n lines before AND after the result. I will only be going over the letter `A`.
 
 1. This is a command line input that I typed into the terminal:
 ~~~
@@ -122,7 +122,7 @@ interveners, and barriers and concerns that need to be addressed.
 The rationale for interventions in the emergency setting is that
 the medical condition or injury prompting admission provides a
 ~~~
-The output consists of four lines - there are two lines that mention "rationale" in the Session 3 PDF text file and is one other line printed beneath each of these two lines (this is the ONE line that follows the line that mentions "rationale"). Each of these two sections are separated by two dashes which make it easier for users to see which line is associated with what. By inputting the grep command, I can get an idea of what the rationale was in this text with more context. If I wanted to get even more context, I can increase the number after the letter `A` to see more lines that proceed the line that mentions "rationale".'
+The output consists of four lines - there are two lines that mention "rationale" in the Session 3 PDF text file and there is one other line printed beneath each of these two lines (this is the ONE line that follows the line that mentions "rationale"). Each of these two sections are separated by two dashes which make it easier for users to see which line is associated with what. By inputting the grep command, I can get an idea of what the rationale was in this text with more context. If I wanted to get even more context, I can increase the number after the letter `A` to see more lines that proceed the line that mentions "rationale".'
 
 2. This is a second command line input that I typed into the terminal:
 ~~~
@@ -132,7 +132,7 @@ I am searching for lines with the word "abuse" in it and TWO lines after in the 
 ~~~
 and his or her drinking or drug abuse and may be more motivated to
 change.13-15
-* Presenter
+Presenter
 --
 of a substance abuse counselor mobilizing the family, and at times
 the employer, to intervene with the patient's drinking and to
