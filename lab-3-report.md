@@ -126,113 +126,176 @@ The output consists of four lines - there are two lines that mention "rationale"
 
 2. This is a second command line input that I typed into the terminal:
 ~~~
-grep -A2 abuse technical/government/Alcohol_Problems/Session3-PDF.txt
+grep -A2 studies technical/government/Alcohol_Problems/Session3-PDF.txt
 ~~~
-I am searching for lines with the word "abuse" in it and TWO lines after in the Session 3 PDF text file of the Alcohol Problems report in the government file. This is the command line output that resulted from my input:
+I am searching for lines with the word "studies" in it and TWO lines after in the Session 3 PDF text file of the Alcohol Problems report in the government file. This is the command line output that resulted from my input:
 ~~~
-and his or her drinking or drug abuse and may be more motivated to
-change.13-15
-Presenter
+to emergency departments and trauma centers. Many studies have
+documented the presence of alcohol among patients admitted to
+emergency depart-ment1-5 and trauma center6,7 settings. Other
 --
-of a substance abuse counselor mobilizing the family, and at times
-the employer, to intervene with the patient's drinking and to
-arrange for immediate entry to a residential substance abuse
-treatment program after discharge. This program appeared to be
-successful in getting problem-drinking patients to treatment, but
+studies have demonstrated that even blood alcohol concentration
+(BAC) determinations under-estimate the extent of alcohol problems
+among the patients who are triaged and treated in emergency
 --
+studies and a few controlled trials indicate that interventions
+focused on patients' drinking can reduce the amount of drinking as
+well as injury episodes, including repeat re-admission for injury
+--
+interventions support the results of the above studies, indicating
+heightened motivation in the initial period of time in the
+emergency setting. However, it is not clear how long this initial
+--
+drinkers after their visit to an emergency setting. Several studies
+have documented consumption changes not only in the intervention
+condition but also in the minimal intervention control groups.18,19
+--
+resources or insurance.21 This and other seminal studies encouraged
+many professionals to call for some type of consultation service or
+brief intervention to be employed with patients in emergency rooms
+--
+Many of the early studies that documented the efficacy of
+interventions with problem drinkers in emergency settings were
+evaluations and not controlled studies. Nevertheless, the
+documented outcomes have been impressive. Several studies have
 examined the outcomes achieved by substance abuse counselors or
 alcohol workers intervening with problem drinkers. A brief
-intervention in an emergency department by alcohol health workers
 --
-agreed to be in the program.21 A substance abuse consultation team
-in a trauma center reported acceptance of referral for drug or
-alcohol treatment in 62% of the 100 consecutive cases
+colleagues identified 19 studies that measured injury outcomes
+among participants in a variety of settings. They reported that
+reductions in a variety of injuries, injury hospitalizations, and
 --
-specialists trained in alcohol or substance abuse counseling or in
-motivational interviewing techniques. These interventionists met
-with the patient, discussed drinking and substance use openly and
+individuals who had legal charges pending. Most of the studies
+reviewed were not well controlled and the numbers of participants
+and effect sizes reported in these studies were modest.
+Until recently, no well-controlled intervention studies have
+addressed whether interventions in emergency settings would reduce
+alcohol consumption and consequences. Several current publications
 --
-directly, and offered some advice and assistance. Substance abuse
-counselors typically offered advice and referrals to treatment
-facilities or self-help programs. Motivational interview counselors
+studies have compared different types of intervention providers in
+these settings.
+In contrast, physicians or nurses in a variety of primary care
 --
-avoid alcohol-related injuries in the future. Substance abuse
-specialists of one type or another typically delivered drinking
-interventions in emergency settings with a few exceptions.29,30 No
+alcohol intervention.9,26,35,36 However, few studies of
+physician-delivered interventions in an emergency setting exist.
+Clearly, none of the extant studies could be done without the
+support and involvement of emergency medicine physicians and trauma
+surgeons. However, it may be difficult to get physicians to deliver
 --
-substance abuse interventions focus on motivation to enter
-treatment because the patients are severely dependent, heavy
-drinkers. Referral to "appropriate" treatment is the critical end
+studies that have demonstrated effects either with volunteer or
+randomized participants is modest but increasing, and the effects
+range from minimal to very sizeable reduction in risks that have
 --
-substance abuse counselors, only 5% used screening questionnaires
-to identify patients with alcohol use problems.
+large in some studies. However, when the intervention was delivered
+to patients in emergency settings and compared with standard or
+minimal interventions, intervention patients had significantly
+--
 Although we know of no studies assessing clinical practices
+regarding alcohol problems in emergency departments, a survey of
+1,055 emergency medicine physicians by Chang and colleagues found
 --
-abuse/dependence is a "treatable disease," but more than 90%
-indicated that there was a lack of time to perform interventions,
-and only 51% supported
+effectiveness studies. Feasibility and successful dissemination
+must be demonstrated. Prototype interventions that can reach the
+majority of problem drinkers, motivate them to change drinking
 --
-substance abuse counselors. However, it may be more a matter of
-skill and ability to work in this setting and deliver the needed
-type of intervention rather than of profession that should
+effectiveness studies can then be used to promote change in
+standard practice in all emergency settings.
+What we have learned from the research to date gives us some
 --
-been published that deal with alcohol dependence and abuse and
-emergency medicine. The challenge now is to discover how government
-agencies and professional organizations can promote adoption and
+studies indicate that facilitating the referral and making the
+connections increase compliance, the intervention ideally should
+have a component of compliance enhancement if it includes referral
 --
-abuse/dependence in motor vehicle crash victims presenting to the
-emergency department. Acad Emerg Med 1997;4:256-62.
-5. Whiteman PJ, Hoffman RS, Goldfrank LR. Alcoholism in the
+evaluation studies, and policy and procedure evaluations are needed
+to resolve the issues outlined previously. Twenty years ago, Joseph
+Zuska, a surgeon with an interest in alcohol problems among injured
 --
-alcohol abuse in trauma patients. Arch Surg 1993;128:907-13.
-7. Soderstrom CA, Smith GS, Dischinger PC, McDuff DR, Hebel JR,
-Gorelick DA, et al. Psychoactive substance use disorders among
+39 studies (30 randomized controlled and 9 cohort) with a positive
+effect demonstrated in 32 of these studies.1 We also know that the
+ED visit offers a potential "teachable moment" due to the possible
+negative consequences surrounding it and that in essence we, as
 --
-alcohol-related injuries. Substance abuse interventions in general
-nursing practice. Nurs Clin North Am 1998;33(1):93-104
-14. Longabaugh R, Minugh A, Nirenberg TD, Clifford PR, Becker
+All of these questions need to be answered in future studies if
+we are to prove that SBI is effective in the ED setting. It is
+crucial that researchers are clear on all aspects of their research
 --
-substance abuse.
-Psychological Science 1999;10(3):209-13.
-
+are endless, allowing for multiple studies and a great deal of
+creativity on the part of the researchers.
+References
 --
-22. El-Guebaly N, Armstrong SJ, Hodgkins DC. Substance abuse
-and the
-emergency room: programmatic implications. J Addict Dis
+studies. In addition, the target of the intervention (at-risk
+drinkers, problem drinkers, alcohol-dependent drinkers) and the
+mechanism of intervention (physician, nursing staff, social
 --
-abuse consultation team in a trauma center. J Stud Alcohol
-1995;56:267-71.
-
+(effect sizes of ~30% to 40%). The intervention studies based on
+provider feedback and advice to the patient have had mixed results
+in the ED. In addition, it remains difficult to engage health care
 --
-preventive services, and the substance abuse treatment system. Ann
-Emerg Med 1997;30(2):181-9.
-30. Hungerford DW, Pollock DA, Todd KH. Acceptability of
+In addition, because of the effect sizes shown by the studies to
+date, there is also a need to target responses and elements of the
+brief intervention to the problems specific to each individual
 --
-attitudes concerning intervention for alcohol abuse/dependence in
-the emergency department. J Addict Dis 2000;19:45-53.
-44. Friedman PD, McCullough D, Chin MH, Saitz R. Screening and
+Kristen Barry noted that in primary care studies, one session
+seems to be enough to foster change. However, she found it
+interesting that booster sessions worked in this setting. Even
 --
-services, and the substance abuse treatment system. Ann Emerg Med
-1997;30:181-9.
-6. Rhodes KV, Lauderdale DS, Stocking CB, Howes DS, Roizen MF,
+will see if other studies confirm that.
+Herman Diesenhaus added that there must be some type of
+maintenance activity if we are dealing with a chronic, relapsing
 --
-clinicians in screening and brief intervention for substance abuse
-problems: translating evidence into practice. J Subst Abuse
-2000;21:21-31.
+describes how studies at Brown evaluate fidelity. He also noted
+that none of the three clinical trials (Gentillelo's with trauma
+patients, his own with adolescents, and Longabaugh's in the ED)
 --
-to alcohol misuse and abuse.
-Patients in the emergency setting range from those with no
-alcohol problems to those with severe dependence. In the next few
+his studies, he remarked that it is irresponsible for interventions
+not to focus on drinking as well as harm.
+Gail D'Onofrio noted that her planned study will use physicians,
 --
-alcohol-related injuries. Substance abuse interventions in general
-nursing practice. Nurs Clin North Am 1998;33(1):93-104.
-9. Longabough R, Minugh PA, Nirenberg TD, Clifford PR, Becker
+important. She noted that research studies often attempt to control
+so many variables and follow up with patients so frequently that
+control groups receive so much attention focused on alcohol that it
 --
-care, but of many systems. Her work has been in substance abuse
-prevention in schools, where she encountered many social and legal
-beliefs that ran counter to her prevention education efforts. She
+in studies. This can make it difficult to standardize
+interventions. She hypothesized that under-standing the patient's
+perception of the interventionist's capabilities might be as
+--
+smaller, targeted research studies could address that question. He
+cautioned that not every study has to be a clinical trial focused
+on outcomes. To examine the issue of gender, patients could be
+--
+studies or pooling of control group data might better identify
+predictors. More data on this issue could help us plan better
+controlled trials-who to target, when to follow up, and when to
+--
+more smoothly. He noted that most brief intervention studies in EDs
+have focused on injured patients, but that 70% to 80% of ED
+patients do not present with an injury. He wondered how much of
+--
+non-injured patients. She noted that primary care studies and Ed
+Bernstein's ED project do give us experience with non-injured
+patients.
+--
+most primary care studies involve non-injured patients. He thought
+their findings help support work with non-injured patients in the
+emergency department setting as well.
+--
+believed studies from England and New Zealand should be viewed very
+critically because access to health care is easier than in the
+United States. He believed that
+--
+studies in American emergency settings have provided
+inconclusive evidence that brief intervention works. He cautioned
+that literature reviews generally do not include all relevant
+--
+studies because studies with negative results are seldom
+published.
+DiClemente agreed that efficacy in the ED setting had not been
+--
+efficacy or effectiveness studies behind them are adopted and
+become guidelines for standard practice. Once that happens, it is
+very difficult to get support to re-evaluate them, so it is true we
 ~~~
-The output consists of many lines that mention "abuse" in the Session 3 PDF text file and there are two other lines printed beneath each of these two lines (these are the TWO lines that follows the line that mentions "abuse"). Something interesting that came up with my input was that one section printed five lines instead of three. I realized this was because within the two lines that was printed after the line with the word "abuse" in it, another line with the word "abuse" came up, so two MORE lines that came after it were printed. By inputting the grep command, I can get a solid idea of what abuse was involved in this text with sufficient context.
+The output consists of many lines that mention "studies" in the Session 3 PDF text file and there are two other lines printed beneath each of these two lines (these are the TWO lines that follows the line that mentions "abuse"). Something interesting that came up with my input was that some sections printed five or seventh lines instead of three. I realized this was because within the two lines that was printed after the line with the word "studies" in it, another line with the word "studies" came up, so two MORE lines that came after it were printed; This continued if more lines with the word "studies" came up. By inputting the grep command, I can get a solid idea of what studies were involved in this text with sufficient context.
 
 3. This is a third command line input that I typed into the terminal:
 ~~~
