@@ -3,6 +3,8 @@
 
 * [Lab Report 2 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-2-report.html)
 
+* [Lab Report 3 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-3-report.html)
+
 ## This is me testing markdowns
 
 Hello World!
