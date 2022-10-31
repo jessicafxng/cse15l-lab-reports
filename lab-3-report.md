@@ -295,7 +295,7 @@ efficacy or effectiveness studies behind them are adopted and
 become guidelines for standard practice. Once that happens, it is
 very difficult to get support to re-evaluate them, so it is true we
 ~~~
-The output consists of many lines that mention "studies" in the Session 3 PDF text file and there are two other lines printed beneath each of these two lines (these are the TWO lines that follows the line that mentions "abuse"). Something interesting that came up with my input was that some sections printed five or seventh lines instead of three. I realized this was because within the two lines that was printed after the line with the word "studies" in it, another line with the word "studies" came up, so two MORE lines that came after it were printed; This continued if more lines with the word "studies" came up. By inputting the grep command, I can get a solid idea of what studies were involved in this text with sufficient context.
+The output consists of many lines that mention "studies" in the Session 3 PDF text file and there are two other lines printed beneath each of these two lines (these are the TWO lines that follows the line that mentions "abuse"). Something interesting that came up with my input was that some sections printed five or seven lines instead of three. I realized this was because within the two lines that was printed after the line with the word "studies" in it, another line with the word "studies" came up, so two MORE lines that came after it were printed; This continued if more lines with the word "studies" came up. By inputting the grep command, I can get a solid idea of what studies were involved in this text with sufficient context.
 
 3. This is a third command line input that I typed into the terminal:
 ~~~
