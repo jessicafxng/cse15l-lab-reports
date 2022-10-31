@@ -310,6 +310,6 @@ that negative consequences can be directly linked to a behavior.17
 Reports from emergency staff and anecdotal descriptions of some
 interventions support the results of the above studies, indicating
 ~~~
-The output consists of one line that mentions "awareness" in the Session 3 PDF text file and there are five other lines printed beneath it (these are the FIVE lines that follows the line that mentions "abuse"). The word "awareness" was only mentioned once in this file. By inputting the grep command, I can very quickly get an idea of what awareness there was regarding the study with neccessary context. 
+The output consists of one line that mentions "awareness" in the Session 3 PDF text file and there are five other lines printed beneath it (these are the FIVE lines that follow the line that mentions "awareness"). The word "awareness" was only mentioned once in this file. By inputting the grep command, I can very quickly get an idea of what awareness there was regarding the study with neccessary context. 
 
 # The End (Thank you for reading my Lab 3 Report!)
