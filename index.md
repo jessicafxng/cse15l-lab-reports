@@ -5,7 +5,7 @@
 
 * [Lab Report 3 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-3-report.html)
 
-* [Lab Report 3 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-4-report.html)
+* [Lab Report 4 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-4-report.html)
 
 * [Lab Report 5 Link](https://jessicafxng.github.io/cse15l-lab-reports/lab-5-report.html)
 
