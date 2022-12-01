@@ -143,7 +143,7 @@ This is what the screen should look like once the file is exited. I am back to w
 
 ## Comparing 2 Strategies: Running removely or Vim
 
-In this section of this week's lab report, I will complete the following tasks (these instructions are found on [https://ucsd-cse15l-f22.github.io/week/week7/](https://ucsd-cse15l-f22.github.io/week/week7/): 
+In this section of this week's lab report, I will complete the following tasks (these instructions are found on [https://ucsd-cse15l-f22.github.io/week/week7/](https://ucsd-cse15l-f22.github.io/week/week7/)): 
 
 1. " ...Start in Visual Studio Code and make the edit there, then scp the file to the remote server and run it there to confirm it works (you can just run bash test.sh on the remote to test it out). Consider having the appropriate scp command in your command history or easily copy-pasteable! "
 
