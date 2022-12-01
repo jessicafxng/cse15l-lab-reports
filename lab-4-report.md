@@ -109,7 +109,7 @@ Again, it is more time-efficient in this case to press the *e* key instead of th
 
 Like last time, I will press the right arrow key once to get my cursor to the position where I can immediately start backspacing and replacing the word *start* with *base* once I enter *insert mode*. This is where the cursor should be after pressing the key:
 
-![Image](lab4-sc12.png.png)
+![Image](lab4-sc12.png)
 
 ## Step 15: Enter insert mode (again)
 
@@ -131,7 +131,7 @@ After replacing first use of the parameter name in the method, I will press the 
 
 Like stated before, the screen has the same contents as the previous screen, without the *INSERT* text on the bottom. We are now back in the *normal mode*.
 
-## Step 18: Save and exit + <+ < press enter to enter command > 
+## Step 18: Save and exit + < press enter to enter command > 
 
 To save all my changes and exit, I will type in the command `:wq` in the terminal. `:w` saves the file and `q` quits the file. This is what the command looks like in the terminal:
 
